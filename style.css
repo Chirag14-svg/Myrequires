@@ -119,7 +119,7 @@ body {
 }
 
 /* ================= MOBILE ================= */
-@media (max-width: 768px) {
+@media (max-width: 764px) {
 
   .banner-container {
     width: 95%;
@@ -244,11 +244,4 @@ body {
   color: #334155;
   font-weight: 500;
   margin: 0;
-}
-
-
-
-  .category-body {
-    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-  }
 }
