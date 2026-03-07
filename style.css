@@ -246,26 +246,7 @@ body {
   margin: 0;
 }
 
-/* ================= MOBILE ================= */
-@media (max-width: 768px) {
 
-  .banner-container {
-    aspect-ratio: 4 / 5;
-  }
-
-  .nav-search input {
-    width: 250px;
-  }
-
-  .toggle-buttons {
-    gap: 6px;
-    padding: 6px 10px;
-  }
-
-  .toggle-buttons button {
-    font-size: 11px;
-    padding: 6px 10px;
-  }
 
   .category-body {
     grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
