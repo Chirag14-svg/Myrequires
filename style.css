@@ -59,8 +59,6 @@ body {
   cursor: pointer;
   color: #64748B;
 }
-
-
 /* ================= BANNER ================= */
 .banner-container {
   width: 90%;
@@ -142,7 +140,6 @@ body {
     width: 200px;
   }
 }
-
 
 .product {
   transition: all 0.4s ease;
